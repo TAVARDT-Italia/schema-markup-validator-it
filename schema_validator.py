@@ -133,7 +133,7 @@ def main():
 
     print(f"\n[Entita Semantiche Identificate]:")
     if not report["entities"]:
-        print("  - Nenhuma entidade detectada.")
+        print("  - Nessuna entità rilevata.")
     else:
         for ent in report["entities"]:
             print(f"  * Schema Type: {ent}")
