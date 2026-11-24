@@ -1,4 +1,4 @@
-# Validatore di Dati Strutturati Schema.org | TAVARDT Italia
+# Validatore di Dati Strutturati Schema.org
 
 [![Validatore Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-schema-org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Per effettuare verifiche continue e monitorare la corretta implementazione dei d
 ## Consulenza in Dati Strutturati e Ricerca Semantica
 
 Per progetti dedicati di ottimizzazione dell'architettura informativa in conformita con Standard W3C e Linee Guida Semantiche, contattare **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
