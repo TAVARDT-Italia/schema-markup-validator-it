@@ -2,6 +2,7 @@
 
 [![Validatore Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-schema-org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit tecnico per dati strutturati JSON-LD e Microdata, conformita con lo standard Schema.org, analisi di entita ed idoneita per rich snippet.
 
@@ -56,6 +57,11 @@ Per progetti dedicati di ottimizzazione dell'architettura informativa in conform
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Rilasciato sotto licenza MIT. Per maggiori informazioni, consultare il file [LICENSE](LICENSE).
 
 ***
 
