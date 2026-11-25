@@ -6,8 +6,6 @@
 
 Audit tecnico per dati strutturati JSON-LD e Microdata, conformita con lo standard Schema.org, analisi di entita ed idoneita per rich snippet.
 
-Sviluppato e gestito dalla divisione di ingegneria semantica e dati strutturati di **TAVARDT**.
-
 ***
 
 ## Funzionalita di Validazione Semantica
@@ -37,15 +35,6 @@ python schema_validator.py esempio.it -json
 
 ***
 
-## Piattaforma di Diagnosi Online
-
-Per effettuare verifiche continue e monitorare la corretta implementazione dei dati:
-
-* **Validatore di Dati Strutturati Ufficiale**
-* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza in Dati Strutturati e Ricerca Semantica
 
 Per progetti dedicati di ottimizzazione dell'architettura informativa in conformita con Standard W3C e Linee Guida Semantiche, contattare **TAVARDT**.
@@ -61,7 +50,7 @@ Per progetti dedicati di ottimizzazione dell'architettura informativa in conform
 ***
 
 ### Licenza
-Rilasciato sotto licenza MIT. Per maggiori informazioni, consultare il file [LICENSE](LICENSE).
+Rilasciato sotto licenza MIT.
 
 ***
 
